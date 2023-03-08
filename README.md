@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository provides codes and materials associated with the manuscript "ABT-MPNN: An atom-bond transformer-based message passing neural network for molecular property prediction".
+This repository provides codes and materials associated with the manuscript [ABT-MPNN: An atom-bond transformer-based message passing neural network for molecular property prediction](https://doi.org/10.1186/s13321-023-00698-9).
 ![](https://github.com/LCY02/ABT-MPNN/blob/master/docs/architecture.png?raw=true)
 
 > Illustration of ABT-MPNN
